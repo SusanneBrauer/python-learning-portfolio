@@ -11,7 +11,7 @@ Storing and documenting my python journey. With examples and exercise projects.
 7. Object-Oriented Programming
 8. Modules
 9. Working with CSV
-10. Sall Projects
+10. Small Projects
 
 ## 1. Variables and Datatypes
 - Variablen can store information/data which can then be used later on
